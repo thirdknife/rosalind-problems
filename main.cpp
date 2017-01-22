@@ -1,4 +1,4 @@
-#include "counting-dna-nucleotides.h";
+#include "counting-dna-nucleotides.h"
 
 using namespace std;
 
